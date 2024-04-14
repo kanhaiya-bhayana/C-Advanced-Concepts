@@ -1,0 +1,15 @@
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfoInputs.cache
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfo.cs
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.sourcelink.json
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.exe
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.deps.json
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.runtimeconfig.json
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.dll
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.pdb
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.dll
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\refint\DelegateBasicExample.dll
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.pdb
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.genruntimeconfig.cache
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\ref\DelegateBasicExample.dll
