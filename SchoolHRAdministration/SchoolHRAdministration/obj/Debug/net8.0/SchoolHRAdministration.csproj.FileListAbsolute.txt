@@ -16,3 +16,4 @@ D:\Kanhaiya\Leaning\AdvancedC#Concepts\SchoolHRAdministration\SchoolHRAdministra
 D:\Kanhaiya\Leaning\AdvancedC#Concepts\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\net8.0\SchoolHRAdministration.pdb
 D:\Kanhaiya\Leaning\AdvancedC#Concepts\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\net8.0\SchoolHRAdministration.genruntimeconfig.cache
 D:\Kanhaiya\Leaning\AdvancedC#Concepts\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\net8.0\ref\SchoolHRAdministration.dll
+D:\Kanhaiya\Leaning\AdvancedC#Concepts\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\net8.0\SchoolHRAdministration.sourcelink.json
