@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA3BAD-CB8B-434A-A9E3-3A57476D66F6}|SchoolHRAdministration\\SchoolHRAdministration.csproj|d:\\kanhaiya\\leaning\\advancedc#concepts\\schoolhradministration\\schoolhradministration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBA3BAD-CB8B-434A-A9E3-3A57476D66F6}|SchoolHRAdministration\\SchoolHRAdministration.csproj|solutionrelative:schoolhradministration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3291F6-8DC6-4C36-BD2D-879C5BB2F39C}|HRAdministrationAPI\\HRAdministrationAPI.csproj|d:\\kanhaiya\\leaning\\advancedc#concepts\\schoolhradministration\\hradministrationapi\\baseemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3291F6-8DC6-4C36-BD2D-879C5BB2F39C}|HRAdministrationAPI\\HRAdministrationAPI.csproj|solutionrelative:hradministrationapi\\baseemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3291F6-8DC6-4C36-BD2D-879C5BB2F39C}|HRAdministrationAPI\\HRAdministrationAPI.csproj|d:\\kanhaiya\\leaning\\advancedc#concepts\\schoolhradministration\\hradministrationapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3291F6-8DC6-4C36-BD2D-879C5BB2F39C}|HRAdministrationAPI\\HRAdministrationAPI.csproj|solutionrelative:hradministrationapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA3BAD-CB8B-434A-A9E3-3A57476D66F6}|SchoolHRAdministration\\SchoolHRAdministration.csproj|d:\\kanhaiya\\leaning\\advancedc#concepts\\schoolhradministration\\schoolhradministration\\schoolhradministration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCBA3BAD-CB8B-434A-A9E3-3A57476D66F6}|SchoolHRAdministration\\SchoolHRAdministration.csproj|solutionrelative:schoolhradministration\\schoolhradministration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolHRAdministration.csproj",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\SchoolHRAdministration\\SchoolHRAdministration.csproj",
+              "RelativeDocumentMoniker": "SchoolHRAdministration\\SchoolHRAdministration.csproj",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\SchoolHRAdministration\\SchoolHRAdministration.csproj",
+              "RelativeToolTip": "SchoolHRAdministration\\SchoolHRAdministration.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T05:59:03.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEmployee.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\HRAdministrationAPI\\BaseEmployee.cs",
+              "RelativeDocumentMoniker": "HRAdministrationAPI\\BaseEmployee.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\HRAdministrationAPI\\BaseEmployee.cs",
+              "RelativeToolTip": "HRAdministrationAPI\\BaseEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:57:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\HRAdministrationAPI\\IEmployee.cs",
+              "RelativeDocumentMoniker": "HRAdministrationAPI\\IEmployee.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\HRAdministrationAPI\\IEmployee.cs",
+              "RelativeToolTip": "HRAdministrationAPI\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:56:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\SchoolHRAdministration\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolHRAdministration\\Program.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\AdvancedC#Concepts\\SchoolHRAdministration\\SchoolHRAdministration\\Program.cs",
+              "RelativeToolTip": "SchoolHRAdministration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:54:59.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
